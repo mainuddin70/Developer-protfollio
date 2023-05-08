@@ -31,3 +31,12 @@ h3 {
 h1 {
     font-size: 35px;
 }
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(194, 161, 98);
+
+    padding: 2px 10px;
+    color: rgb(85, 45, 103);
+    border-radius: 10px;
+}
