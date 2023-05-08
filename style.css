@@ -10,6 +10,7 @@ body {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -45,4 +46,12 @@ h1 {
 .top-bannar {
     background-image: url(top-bannar.png);
     background-repeat: no-repeat;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.half-width 50%;
+
+.new-trum {
+    color: blueviolet;
 }
