@@ -8,6 +8,10 @@ body {
     }
 }
 
+.section {
+    display: flex;
+}
+
 section {
     display: flex;
     margin-bottom: 100px;
@@ -16,6 +20,10 @@ section {
 .half-width {
     width: 50%;
     padding: 5%;
+}
+
+.top-bannar {
+    display: flex;
 }
 
 .half-width img {
@@ -54,4 +62,17 @@ h1 {
 
 .new-trum {
     color: blueviolet;
+}
+
+
+.new-experice {
+    display: flex;
+}
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5px;
+    margin right: 5px;
+    box-shadow: 10px 10px 40px greenyellow;
 }
